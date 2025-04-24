@@ -18,5 +18,7 @@
 
 ## Parte 3: Caso o código não funcione, use esse comando no terminal C:\seu_caminho\trabalho> npm install react-toastify
 
+## Repositório: https://github.com/RodrigoCWB0502/Trabalho1_ExpCriativa/tree/main
+
 
 ## Para acessar a página web vá para esse link: (http://localhost:3000/)    
